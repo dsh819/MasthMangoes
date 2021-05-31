@@ -1,0 +1,25 @@
+$primary-color: #f9c22e;
+$secondary-color: #71b340;
+$third-color: #ed6a5a;
+$fourth-color: #222222;
+$fifth-color: #fff;
+
+.mango {
+  color: red;
+}
+
+.third_color {
+  color: $third-color;
+}
+
+.fourth_color {
+  color: $fourth-color;
+}
+
+.odd_background {
+  background-color: $primary-color;
+}
+
+.even_background {
+  background-color: $secondary-color;
+}

@@ -1,0 +1,43 @@
+@import './Landing.module.scss';
+
+.logoContainer {
+  height: 100px;
+  width: 100px !important;
+}
+
+.logo {
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  background-color: $fifth-color;
+  color: $third-color;
+  border-radius: 25px;
+  padding: 16px;
+  font-size: 64px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.subheader {
+  font-size: 32px;
+  color: $fourth-color;
+  opacity: 70%;
+  margin-bottom: 40px;
+  text-align: left;
+}
+
+.cta {
+  background-color: $third-color;
+  border-radius: 25px;
+  color: $fourth-color;
+  font-size: 24px;
+  padding: 16px 24px;
+  text-decoration: none;
+}
+
+.ctaText {
+  color: $fifth-color;
+  opacity: 100%;
+}

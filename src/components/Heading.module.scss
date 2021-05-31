@@ -1,0 +1,9 @@
+@import './Landing.module.scss';
+
+.headingStyle {
+  color: $fourth-color;
+  background-color: $fifth-color;
+  padding: 16px 32px;
+  border-radius: 25px;
+  display: inline-block;
+}
